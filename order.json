@@ -1,0 +1,26 @@
+{
+  "isSuccess": true,
+  "messageCode": 0,
+  "data": {
+    "orderId": "string",
+    "orderMessage": "string",
+    "confirmedBasketUserEmail": "string",
+    "confirmedBasketUserName": "string",
+    "roomName": "string",
+    "users": [
+      {
+        "userEmail": "string",
+        "userName": "string",
+        "products": [
+          {
+            "productId": "string",
+            "productName": "string",
+            "productPrice": 0,
+            "productQuantity": 0
+          }
+        ]
+      }
+    ],
+    "orderDate": "2022-08-04T11:50:23.001Z"
+  }
+}
