@@ -1,21 +1,19 @@
 {
-  "isSuccess": true,
-  "messageCode": 0,
   "data": {
-    "orderId": "string",
-    "orderMessage": "string",
+    "orderId": "1",
+    "orderMessage": "Salçalı tost",
     "confirmedBasketUserEmail": "string",
     "confirmedBasketUserName": "string",
     "roomName": "203",
     "users": [
       {
-        "userEmail": "string",
+        "userEmail": "mce@gmail.com",
         "userName": "Mehmetcan",
         "products": [
           {
-            "productId": "string",
+            "productId": "1",
             "productName": "Tost",
-            "productPrice": 0,
+            "productPrice": 1,
             "productQuantity": 2
           }
         ]
