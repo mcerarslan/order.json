@@ -6,17 +6,17 @@
     "orderMessage": "string",
     "confirmedBasketUserEmail": "string",
     "confirmedBasketUserName": "string",
-    "roomName": "string",
+    "roomName": "203",
     "users": [
       {
         "userEmail": "string",
-        "userName": "string",
+        "userName": "Mehmetcan",
         "products": [
           {
             "productId": "string",
-            "productName": "string",
+            "productName": "Tost",
             "productPrice": 0,
-            "productQuantity": 0
+            "productQuantity": 2
           }
         ]
       }
